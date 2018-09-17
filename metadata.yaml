@@ -1,0 +1,28 @@
+_repo: The-History-of-Lumsden-s-Horse-A-Complete-Record-of-the-Corps-from-Its-Formation-to-Its-Disba__52303
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Pearse, Henry H. S.
+    alias: Pearse, H. H. S. (Henry Hiram Steere)
+    birthdate: 1844
+    deathdate: 1905
+    gutenberg_agent_id: '6735'
+    url: http://www.gutenberg.org/2009/agents/6735
+description: ''
+gutenberg_issued: '2016-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52303'
+  lccn: '98106020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army. Lumsden''s Horse'
+- !lcsh 'South African War, 1899-1902 -- Regimental histories -- Great Britain'
+- !lcc 'DT'
+- GITenberg
+title: "The History of Lumsden's Horse\r\nA Complete Record of the Corps from Its\
+  \ Formation to Its Disbandment"
+url: http://www.gutenberg.org/ebooks/52303
